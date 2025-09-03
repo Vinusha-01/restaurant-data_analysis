@@ -3,7 +3,7 @@
 
 ---
 
-## 📖 About the Project
+## 📖 About the Project 
 
 This project analyzes a restaurant dataset to find useful insights:
 
