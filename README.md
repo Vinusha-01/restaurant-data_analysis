@@ -115,6 +115,7 @@ python data_analysis.py
 ---
 
 ## 📬 Contact
-* **[Email Me]**(mailto:vinushareddydoma@gmail.com)
+
+**Email:** vinushareddydoma@gmail.com
 
 * **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vinusha-reddy-a6aa132b3/)
