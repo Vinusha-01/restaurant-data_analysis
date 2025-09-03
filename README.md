@@ -24,7 +24,7 @@ This project is part of my **Data Analyst Internship at Cognify**.
   * Rating, Price Range, Votes
   * Online Delivery & Table Booking
   * Latitude & Longitude
-* File: `Dataset.csv`
+* File: `Cognify/Dataset.csv`
 
 ---
 
@@ -96,7 +96,7 @@ You can see/download my certificate here:
 1. Clone the repo:
 
 ```bash
-git clone <repo_link>
+git clone https://github.com/Vinusha-01/restaurant-data_analysis/
 ```
 
 2. Install packages:
@@ -105,7 +105,7 @@ git clone <repo_link>
 pip install pandas numpy matplotlib seaborn plotly
 ```
 
-3. Keep `Dataset.csv` and `Certificate.pdf` in the folder
+3. Keep `Cognify/Dataset.csv` in the folder
 4. Run the Python file:
 
 ```bash
@@ -116,5 +116,5 @@ python data_analysis.py
 
 ## 📬 Contact
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/)
+* **Email:** [vinushareddydoma@gmail.com](mailto:vinushareddydoma@gmail.com)
+* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vinusha-reddy-a6aa132b3/)
