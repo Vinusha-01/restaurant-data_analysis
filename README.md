@@ -24,7 +24,7 @@ This project is part of my **Data Analyst Internship at Cognify**.
   * Rating, Price Range, Votes
   * Online Delivery & Table Booking
   * Latitude & Longitude
-* File: `Cognify/Dataset.csv`
+* File: [Dataset](Cognify/Dataset%20.csv)
 
 ---
 
