@@ -86,7 +86,8 @@ This project is part of my **Data Analyst Internship at Cognify**.
 I completed the **Data Analyst Internship at Cognify**.
 You can see/download my certificate here:
 
-[Certificate](Cognify/Doma Vinusha Reddy (1).pdf)
+[Certificate](Cognify/Doma%20Vinusha%20Reddy%20(1).pdf)
+
 
 ---
 
